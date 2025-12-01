@@ -22,7 +22,6 @@ An AI-powered **concierge agent system** that automatically plans weekly meals, 
 ## 🧠 Architecture
 
 This project implements a **multi-agent system** using concepts from the course.
-![Multi-Agent System](architecture.png)
 
 ```mermaid
 flowchart TD
@@ -84,8 +83,6 @@ flowchart TD
   shopping_list_agent.py
   tools/
       google_search.py
-      spoonacular.py
-      ingredient_normalizer.py
 ```
 
 ---

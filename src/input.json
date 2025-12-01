@@ -1,0 +1,8 @@
+{
+	"dietary_info": {
+		"diet_type": "vegetarian",
+		"allergies": ["nuts"],
+		"cuisine_preferences": ["Mediterranean"],
+		"meals_needed": ["5 dinners"]
+	}
+}
